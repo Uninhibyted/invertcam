@@ -3,13 +3,14 @@ body{
   margin:0;
   padding:0;
 }
-button{
-  background-color:#272727;
-  color:white;
-  border:0;
-  border-radius:5px;
-  padding: 10px;
-  margin: 0 20px;
+
+button {
+    height: 3em;
+    background-color: #d0d0d0;
+    color: #3b3b3b;
+    border: 0;
+    border-radius: 20px;
+    margin: 20px;
 }
 .parent {
   display: grid;
